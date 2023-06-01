@@ -1,0 +1,13 @@
+Ejercicio 1: 
+a) devuelve 8
+b) devuelve 204
+Ejercicio 2
+a) devuelve 15
+b) 66.25
+Ejercicio 3:
+a) devuelve 10
+b) devuelve 23.88888888888889
+Ejercicio 4:
+a) devuelve 7
+b) devuelve -4.333333333333333
+c) devuelve 0.26666666666666666
